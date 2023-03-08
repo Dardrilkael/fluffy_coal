@@ -1,0 +1,11 @@
+{
+  "name": "pacote",
+  "version": "1.0.0",
+  "description": "zzzzzzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gabriel Fonseca Barrero",
+  "license": "ISC"
+}
